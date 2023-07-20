@@ -12,3 +12,8 @@ As a developer I am passionate about making websites and applications that fit t
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyDuncan)](https://github.com/anuraghazra/github-readme-stats)
+
+# Links
+
+Website: https://duncancpayne.wixsite.com/duncanpayne
+LinkedIn: https://www.linkedin.com/in/duncan-payne-3493201ba/
