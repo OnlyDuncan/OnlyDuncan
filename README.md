@@ -8,10 +8,7 @@ As a developer I am passionate about making websites and applications that fit t
 
 # Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,blender,bootstrap,discord,django,docker,express,firebase,flask,git,github,ai,instagram,jquery,linkedin,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,sass,stackoverflow,svg,tailwind,ts,vercel,vscode,xd)](https://skillicons.dev)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyDuncan)](https://github.com/anuraghazra/github-readme-stats)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,blender,bootstrap,django,docker,express,firebase,flask,git,ai,jquery,materialui,mongodb,mysql,nextjs,nodejs,postgres,postman,react,redux,sass,tailwind,ts,vercel,vscode,xd)](https://skillicons.dev)
 
 # Links
 
