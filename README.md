@@ -12,5 +12,4 @@ As a developer I am passionate about making websites and applications that fit t
 
 # Links
 
-Website: https://duncancpayne.wixsite.com/duncanpayne
-LinkedIn: https://www.linkedin.com/in/duncan-payne-3493201ba/
+For more information or to see some of the designs and software development projects I've been working on, head on over to my [website](https://duncancpayne.wixsite.com/duncanpayne)! Also, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/duncan-payne-3493201ba/)!
